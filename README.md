@@ -18,7 +18,7 @@ A specific type of GAN known as Conditional GAN or cGAN is an effective method f
 - binary Convolutional Neural Network
 
 ## Dataset
-- [Pix2Pix Maps (Kaggle), 1096 images] (https://www.kaggle.com/datasets/alincijov/pix2pix-maps)
+- [Pix2Pix Maps (Kaggle), 1096 images](https://www.kaggle.com/datasets/alincijov/pix2pix-maps)
 - 256x256 Satellite view image concatenated with 256x256 Map view image => 512x512 input data size  (each pixel in the satellite image represents the corresponding pixel as a map)
 
 
